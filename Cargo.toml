@@ -6,5 +6,5 @@ description = "this is a test"
 license = "MIT"
 keywords = ["demo"]
 repository = "https://github.com/matthewharwood/rust-for-node-devs.git"
-documentation = ""
+documentation = "https://github.com/matthewharwood/rust-for-node-devs"
 edition = "2018"
