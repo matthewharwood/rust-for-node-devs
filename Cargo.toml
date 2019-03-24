@@ -6,6 +6,6 @@ publish = false
 description = "this is a test"
 license = "MIT"
 keywords = ["demo"]
-repository = ""
+repository = "https://github.com/matthewharwood/rust-for-node-devs.git"
 documentation = ""
 edition = "2018"
